@@ -140,3 +140,6 @@ credentials.py
 xmpp_driver.py
 wss_driver.py
 scratch*.py
+
+# MAC
+.DS_Store
